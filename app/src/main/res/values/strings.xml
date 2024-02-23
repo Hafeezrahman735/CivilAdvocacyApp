@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Civil Advocacy App</string>
+    <string name="location">location</string>
+    <string name="info">info</string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="version_1">Version 1</string>
+    <string name="_2021_syed_rahman">2021, Syed Rahman</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="divider">divider</string>
+    <string name="facebook_link">facebook link</string>
+    <string name="twitter_link">twitter link</string>
+    <string name="youtube_link">youtube link</string>
+    <string name="party_logo">party logo</string>
+    <string name="profile_pic">profile pic</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website</string>
+</resources>
